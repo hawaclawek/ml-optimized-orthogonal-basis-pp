@@ -3,5 +3,5 @@
 
 The first three Jupyter notebook exports deal with preliminary work,  
 like implementing Chebyshev basis into our exiting solution or segment size experiments.  
-Notebook exports 03 - 06 cover the eessential results discussed in our paper.  
+Notebook exports 03 - 06 cover the essential results discussed in our paper.  
 Notebook export 07 documents generation of plots for the paper.  
