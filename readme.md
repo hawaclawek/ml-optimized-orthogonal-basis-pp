@@ -14,4 +14,4 @@ Notebook exports 03 - 06 cover the essential results discussed in our paper.
 Notebook export 07 documents generation of plots for the paper.  
   
 **The code used to generate these results is available here:**  
-https://github.com/hawaclawek/1d-ml-opt-pp
+https://github.com/JRC-ISIA/ml-optimized-orthogonal-basis-1d-pp  
